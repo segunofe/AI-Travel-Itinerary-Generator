@@ -1,0 +1,6 @@
+{
+  "name": "CityWander - 3-Day Travel Itinerary Planner",
+  "description": "Generate beautifully structured 3-day travel itineraries with customized schedules, daily time slots, curated activities, and insider city tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
